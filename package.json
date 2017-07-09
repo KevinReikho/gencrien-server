@@ -1,0 +1,25 @@
+{
+  "name": "gencrien-server",
+  "version": "1.0.0",
+  "description": "what a game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinReikho/gencrien-server.git"
+  },
+  "author": "Nixis & Reikho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinReikho/gencrien-server/issues"
+  },
+  "homepage": "https://github.com/KevinReikho/gencrien-server#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "http-server": "^0.10.0",
+    "mongodb": "^2.2.30",
+    "socket.io": "^2.0.3"
+  }
+}
